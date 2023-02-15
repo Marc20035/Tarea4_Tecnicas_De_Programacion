@@ -1,6 +1,6 @@
 # Tarea4_Tecnicas_De_Programacion
 # NOTAS:
-* Este es mi repositorio: 
+* Este es mi repositorio: https://github.com/Marc20035/Tarea4_Tecnicas_De_Programacion.git
 # Ejercicios
 * __1 La nota media (versión 1)__
 Este algoritmo calcula la media de valores (por ejemplo, de las notas), introducidos por el usuario. En primer lugar, el usuario indica el número de valores cuyo promedio desea conocer. Seguidamente, introduce todos estos valores. Finalmente, se muestra la media de estos valores.
